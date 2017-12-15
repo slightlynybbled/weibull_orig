@@ -1,3 +1,9 @@
+# Archive
+
+This repository is an archive of a fork of the repository.  I have created a new repository at https://github.com/slightlynybbled/weibull where the project is still in development.  Original author is still credited here and at the bottom of the readme.
+
+---
+
 # Purpose
 
 This package is intended to ease reliability analysis using the Weibull distribution, which is the most common method of reliability analysis.
